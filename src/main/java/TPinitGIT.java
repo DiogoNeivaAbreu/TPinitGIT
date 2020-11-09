@@ -10,4 +10,5 @@ public class TPinitGIT {
 
     //commentaire pour conflit
     //2eme commentaire de conflit
+    //modif dans github pour conflit
 }
