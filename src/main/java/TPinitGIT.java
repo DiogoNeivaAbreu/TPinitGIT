@@ -7,5 +7,7 @@
 public class TPinitGIT {
 
     //commentaire de la voisine
+
+    //commentaire pour conflit
     
 }
